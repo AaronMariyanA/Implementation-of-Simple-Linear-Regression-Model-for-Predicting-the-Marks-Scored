@@ -14,8 +14,8 @@ To write a program to predict the marks scored by a student using the simple lin
 4. 
 
 ## Program:
- Developed by: AADHITHYA.V
- RegisterNumber: 25018761
+ Developed by: Aaron Mariyan A
+ RegisterNumber: 212224040004
  Program to implement univariate Linear Regression to fit a 
 straight line using least squared 
 import numpy as np 
